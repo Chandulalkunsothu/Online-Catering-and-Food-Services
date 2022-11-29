@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Online Catering And Food Services</string>
+    <string name="chicken_biryani">Chicken Biryani</string>
+    <string name="mutton_biryani">Mutton Biryani</string>
+    <string name="veg_briyani">Veg Briyani</string>
+    <string name="paneer_briyani">Paneer Briyani</string>
+    <string name="boneless_briyani">Boneless Briyani</string>
+    <string name="puri">Puri</string>
+    <string name="chapati">Chapati</string>
+    <string name="deserts">Deserts</string>
+    <string name="alu_rice">Allu Rice</string>
+    <string name="chicken_biryani_p1">RS 150</string>
+    <string name="mutton_biryani_p2">RS 190</string>
+    <string name="veg_briyani_p3">RS 130</string>
+    <string name="paneer_briyani_p4">RS 160</string>
+    <string name="boneless_briyani_p5">RS 140</string>
+    <string name="puri_p6">RS 20</string>
+    <string name="chapati_p7">RS 25</string>
+    <string name="deserts_p8">RS 30</string>
+    <string name="alu_rice_p9">RS 90</string>
+
+</resources>
